@@ -55,6 +55,6 @@
     }
 
     .venta-producto {
-        padding: var(--espaciado-x2) 10%;
+        grid-template-columns: 1fr;
     }
 }
